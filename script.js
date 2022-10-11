@@ -1,0 +1,15 @@
+var names= new Array();
+names[0]="Yaakov";
+names[1]="Jhon";
+names[2]="Jen";
+names[3]="Jason";
+names[4]="paul";
+names[5]="frank";
+names[6]="larry";
+names[7]="paula";
+names[8]="laura";
+names[9]="Jim";
+
+for (var i = 0; i < names.length; i++) {
+    console.log(names[i]);
+}
